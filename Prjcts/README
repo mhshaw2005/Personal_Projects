@@ -1,1 +1,5 @@
 All of the main files for each of my projects
+
+1.Main.py - A collection of smaller functions created to complete simple tasks. These helped me refresh my basis in python.
+2.Prjct_tree.py - A program that I wanted to make using API's to refresh my skills. The purpose of it is to give the user a set of date in the month to take a T-break. It also has the function of being able to access you google calender and automaticaly add the dates to your calender.
+3.Prime.py - A basic program that is able to find up to the nth prime number, or go indefinetaly. Prints out all the numbers as it finds it. This was made to challenge my logic, as I did this using my own way of finding primes.
